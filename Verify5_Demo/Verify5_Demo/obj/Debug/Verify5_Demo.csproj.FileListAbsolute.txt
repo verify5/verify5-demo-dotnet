@@ -1,0 +1,8 @@
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\bin\Debug\Verify5_Demo.exe.config
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\obj\Debug\Verify5_Demo.csprojResolveAssemblyReference.cache
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\bin\Debug\Verify5_Demo.exe
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\bin\Debug\Verify5_Demo.pdb
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\bin\Debug\Newtonsoft.Json.dll
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\bin\Debug\Newtonsoft.Json.xml
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\obj\Debug\Verify5_Demo.exe
+c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\obj\Debug\Verify5_Demo.pdb
