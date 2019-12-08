@@ -10,7 +10,7 @@ namespace Verify5_Demo
     class Token
     {
         /// <summary>
-        /// 网站后台刷新token
+        /// 网站后台获取和更新Token ,建议5分钟调度一次
         /// </summary>
         /// <param name="appid">verify5提供的appId, 必填项</param>
         /// <param name="expiredIn">新生成的token有效时间,单位毫秒 选填，默认30天</param>

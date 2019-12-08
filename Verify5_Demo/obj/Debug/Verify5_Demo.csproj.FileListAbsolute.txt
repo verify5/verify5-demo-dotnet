@@ -6,3 +6,9 @@ c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\b
 c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\bin\Debug\Newtonsoft.Json.xml
 c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\obj\Debug\Verify5_Demo.exe
 c:\users\xiaha\documents\visual studio 2015\Projects\Verify5_Demo\Verify5_Demo\obj\Debug\Verify5_Demo.pdb
+D:\tmp\ddd\dotnet\verify5-demo-dotnet\Verify5_Demo\Verify5_Demo\bin\Debug\Verify5_Demo.exe.config
+D:\tmp\ddd\dotnet\verify5-demo-dotnet\Verify5_Demo\Verify5_Demo\obj\Debug\Verify5_Demo.exe
+D:\tmp\ddd\dotnet\verify5-demo-dotnet\Verify5_Demo\Verify5_Demo\obj\Debug\Verify5_Demo.pdb
+D:\tmp\ddd\dotnet\verify5-demo-dotnet\Verify5_Demo\bin\Debug\Verify5_Demo.exe.config
+D:\tmp\ddd\dotnet\verify5-demo-dotnet\Verify5_Demo\obj\Debug\Verify5_Demo.exe
+D:\tmp\ddd\dotnet\verify5-demo-dotnet\Verify5_Demo\obj\Debug\Verify5_Demo.pdb
