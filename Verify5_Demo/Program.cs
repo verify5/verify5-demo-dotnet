@@ -23,7 +23,7 @@ namespace Verify5_Demo
             token.RefreshToken(appId, 24 * 60 * 60 * 1000);
             Verify verify = new Verify();
             System.Console.WriteLine("Server Verify...");
-            verify.ServerVerify("599d20210a6445d0901c8b183b9660ff", "122222");
+            verify.ServerVerify("599d20210a6445d0901c8b183b9660ff", "122222", "myUserId" , "myOrder0223232");
             Console.ReadKey();
         }
 
