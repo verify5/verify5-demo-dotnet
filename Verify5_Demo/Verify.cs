@@ -21,6 +21,10 @@ namespace Verify5_Demo
             dictionary.Add("token", token);
             dictionary.Add("verifyid", verifyid);
             dictionary.Add("timestamp", timestamp);
+            // 以下是自定义参数，添加自定义参数后在风险告警和数据分析中可以关联到业务数据
+		    dictionary.Add("userId":"testuser");
+		    dictionary.Add("orderId":"OD22ce32d");
+            
             String apiUrl = Program.appHost + "/openapi/verify";
             try
             {
